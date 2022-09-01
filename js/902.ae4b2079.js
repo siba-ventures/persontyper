@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkpersontypetest"]=self["webpackChunkpersontypetest"]||[]).push([[902],{9902:function(e){e.exports=JSON.parse('{"question":[{"question":"","options":[""]},{}]}')}}]);

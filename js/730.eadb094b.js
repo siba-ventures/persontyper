@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkpersontypetest"]=self["webpackChunkpersontypetest"]||[]).push([[730],{2730:function(e){e.exports=JSON.parse('{"mask":[2,2,2,1,1,2,1,1,1,2]}')}}]);
